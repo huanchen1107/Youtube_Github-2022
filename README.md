@@ -7,6 +7,6 @@
 * AI file https://github.com/huanchen1107/Youtube_Github-2022/blob/master/AI/AIoT_Talk_2019.11.28.pdf
 
 
-<a download="AIoT_Talk_2019.11.28.pdf" href="/AI/" title="pdf download">
+<a download="AIoT_Talk_2019.11.28.pdf" href="/AI/AIoT_Talk_2019.11.28.pdf" title="pdf download">
    download pdf
 </a>
